@@ -7,7 +7,7 @@
 		.navbar {
 			background-color: white;
 			width: cover;
-			height: 70px;
+			height: 60px;
 		}
 
 		#stories {
@@ -15,6 +15,13 @@
 			margin-top: 5px;
 			font-family: 'Jost', sans-serif;
 			font-size: 24px;
+		}
+
+		#search {
+			margin-left: 30px;
+			margin-top: 13px;
+			width: 20px;
+			height: 20px;
 		}
 
 		#sendiri {
@@ -37,6 +44,25 @@
 			margin-top: -10px;
 			font-size: 15px;
 			font-family: 'Montserrat', sans-serif;
+		}
+
+		.pemisah {
+			width: 300px;
+			height: 5px;
+		}
+
+		#img-2 {
+			margin-left: 30px;
+			width: 140px;
+			height: 160px;
+			border-radius: 5px 5px 5px 5px;
+		}
+
+		#img-3 {
+		
+			width: 140px;
+			height: 160px;
+			border-radius: 5px 5px 5px 5px;
 		}
 
 }
