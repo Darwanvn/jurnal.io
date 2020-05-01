@@ -1,0 +1,41 @@
+@media (max-width: 576px) { 
+		body {
+			background-color: #F8F8F8;
+		}
+
+		.navbar {
+			background-color: white;
+			width: cover;
+			height: 60px;
+		}
+
+		#stories {
+			margin-left: 80px;
+			margin-top: 5px;
+			font-family: 'Jost', sans-serif;
+			font-size: 24px;
+		}
+
+		#sendiri {
+			margin-top: 30px;
+			margin-left: 11%;
+			width: 300px;
+			height: 150px;
+			border-radius: 5px 5px 5px 5px;
+		}
+
+		.judul {
+			margin-top: 10PX;
+			margin-left: 42px;
+			font-family: 'Ubuntu', sans-serif;
+			font-size: 16px;
+		}
+
+		.isi {
+			margin-left: 29px;
+			margin-top: -10px;
+			font-size: 16px;
+			font-family: 'Montserrat', sans-serif;
+		}
+
+}
