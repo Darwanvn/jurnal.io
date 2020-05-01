@@ -1,4 +1,5 @@
 @media (max-width: 576px) { 
+
 		body {
 			background-color: #F8F8F8;
 		}
@@ -6,7 +7,7 @@
 		.navbar {
 			background-color: white;
 			width: cover;
-			height: 80px;
+			height: 70px;
 		}
 
 		#stories {
@@ -18,21 +19,21 @@
 
 		#sendiri {
 			margin-top: 30px;
-			margin-left: 11%;
+			margin-left: 12%;
 			width: 300px;
-			height: 150px;
+			height: 160px;
 			border-radius: 5px 5px 5px 5px;
 		}
 
 		.judul {
 			margin-top: 10PX;
-			margin-left: 42px;
+			margin-left: 45px;
 			font-family: 'Ubuntu', sans-serif;
-			font-size: 16px;
+			font-size: 15px;
 		}
 
 		.isi {
-			margin-left: 29px;
+			margin-left: 30px;
 			margin-top: -10px;
 			font-size: 15px;
 			font-family: 'Montserrat', sans-serif;
